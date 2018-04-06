@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class Model {
 	private static final String FILE_PATH = "Lorem.txt";
-	private static final int ORDER = 2;
+	private static final int ORDER = 1;
 	private static final int NUMBER_OF_WORDS_TO_GENERATE = 100;
 
 	public static void main(String[] args) {
